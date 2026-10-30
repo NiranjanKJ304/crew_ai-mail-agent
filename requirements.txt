@@ -1,0 +1,7 @@
+crewai[litellm]
+python-dotenv
+PyYAML
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2

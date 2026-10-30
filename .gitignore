@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+credentials/*
+!credentials/.gitkeep
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+token*.json
+client_secret*.json
+
+# Google OAuth secrets - never commit
+credentials/client_secret.json
+credentials/college_token.json
